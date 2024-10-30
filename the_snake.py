@@ -143,7 +143,6 @@ class Snake(GameObject):
         """Pep suka"""
         return self.positions[0]
 
-
     def reset(self, new_position):
         """Pep suka"""
         self.length = 1
